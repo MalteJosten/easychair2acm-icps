@@ -18,5 +18,5 @@ The parameters:
 The produced file will be written into the same directory named `[EVENT_NAME]-icps.csv`.
 
 ---
-<sup>1</sup> In the directory as the script.<br>
+<sup>1</sup> In the same directory as the script.<br>
 <sup>2</sup> Taken from *Paper Types Accepted by the ACM e-Rights System* (found [here](https://www.acm.org/binaries/content/assets/publications/taps/papertypes-csvfields-current.pdf))
